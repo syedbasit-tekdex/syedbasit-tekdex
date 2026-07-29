@@ -10,7 +10,13 @@ import os, json, time, datetime
 import requests
 from dateutil.relativedelta import relativedelta
 
-TOKEN        = os.environ["ACCESS_TOKEN"]
+TOKEN = os.environ.get("ACCESS_TOKEN", "").strip()
+if not TOKEN:
+    raise SystemExit(
+        "ACCESS_TOKEN is empty. Add it under Settings > Secrets and variables > "
+        "Actions > Secrets (not Variables), named exactly ACCESS_TOKEN."
+    )
+
 USERNAME     = os.environ["USER_NAME"]
 UPTIME_SINCE = os.environ.get("UPTIME_SINCE") or None
 
@@ -29,12 +35,19 @@ def gql(query, variables=None, retries=6):
                           headers=HEADERS, timeout=30)
         if r.status_code == 200:
             data = r.json()
-            if "errors" in data:                 # transient secondary-rate errors
-                last = data["errors"]
-                time.sleep(2 ** i)
-                continue
+            if "errors" in data:
+                blob = json.dumps(data["errors"]).lower()
+                if any(t in blob for t in ("rate_limited", "rate limit", "timeout", "502", "503")):
+                    last = data["errors"]; time.sleep(2 ** i); continue   # transient, retry
+                raise RuntimeError(f"GraphQL error: {data['errors']}")
             return data["data"]
-        last = f"HTTP {r.status_code}: {r.text[:200]}"
+        # Bad credentials / permissions -> no point retrying
+        if r.status_code == 401 or (r.status_code == 403 and "rate limit" not in r.text.lower()):
+            raise RuntimeError(
+                f"Auth failed (HTTP {r.status_code}). The ACCESS_TOKEN GitHub received is "
+                f"missing, expired, or lacks the 'repo' + 'read:user' scopes.\n{r.text[:200]}"
+            )
+        last = f"HTTP {r.status_code}: {r.text[:200]}"     # transient (5xx / secondary limit)
         time.sleep(2 ** i)
     raise RuntimeError(f"GraphQL failed after {retries} tries: {last}")
 
