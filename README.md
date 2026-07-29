@@ -2,7 +2,7 @@
 ### Software Engineer @ TekDex Inc
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Software+Engineer+at+TekDex+Inc;Architecting+AI+Solutions;Building+Scalable+Systems;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+at+TekDex+Inc;Architecting+AI+Solutions;Building+Scalable+Systems;AI+Forward+Engineer" alt="Typing SVG" />
 </p>
 
 ---
