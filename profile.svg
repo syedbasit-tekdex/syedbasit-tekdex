@@ -1,0 +1,39 @@
+<svg viewBox="0 0 800 377" width="800" height="377" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text  { font-family: 'JetBrains Mono','Fira Mono','DejaVu Sans Mono',monospace; }
+    .art   { fill:#e9b7ad; font-size:9px; }
+    .txt   { fill:#d7d3d0; font-size:12.5px; }
+    .title { fill:#f97462; font-weight:bold; font-size:12.5px; }
+    .key   { fill:#f97462; font-weight:bold; font-size:12.5px; }
+    .hdr   { fill:#c98b5f; font-size:12.5px; }
+    .muted { fill:#6f6763; font-size:12.5px; }
+    .add   { fill:#3fb950; font-size:12.5px; }
+    .del   { fill:#f85149; font-size:12.5px; }
+  </style>
+  <rect x="0" y="0" width="800" height="377" rx="14" fill="#12100f"/>
+  <rect x="4" y="4" width="792" height="369" rx="11" fill="none" stroke="#2a2320" stroke-width="1.5"/>
+  <text class="art" x="22" y="22" xml:space="preserve"><tspan x="22" dy="0">..:-++*+==************+=--:.</tspan><tspan x="22" dy="10">        .:=+***#########**##%%%%####*+=-.</tspan><tspan x="22" dy="10">      :=*#%%%%%%###%%%%##%%@@%%%###**++++=:.</tspan><tspan x="22" dy="10">    :+#%%%%%%%%%###%%%%%%@@%%%%%%%%%###****+-.</tspan><tspan x="22" dy="10">  :+#%%%%%%%%%%%%%##%@@@@@@@@@@@@@@@@@@%%%#**+:</tspan><tspan x="22" dy="10">.=#%%%%%%%%%%%%%%%%##%@@@%@@@@@@@@@@@@@@%%%#***=</tspan><tspan x="22" dy="10">*%%%%%%%%%#%%%%%%%%%#%%%####%%%%%%@@@@@@%%%##++*</tspan><tspan x="22" dy="10">%%%%%%%%%####*##%##*++=======+++***#%%%@@%%#**++</tspan><tspan x="22" dy="10">%%%%%%%%####**##**+=---:::::::::--==+*#%%%%%##**</tspan><tspan x="22" dy="10">%%%%%%%##**##*#*++==---:::::.....::---=+#%%%%##*</tspan><tspan x="22" dy="10">%%%%%%###**###*++===---::::........:----=*%%%%#*</tspan><tspan x="22" dy="10">%%%%%%##***%##**+====--:::...........:---=#%%%##</tspan><tspan x="22" dy="10">%%%@@%##**#%%##*++===--:::..  ....    .:--=%%%##</tspan><tspan x="22" dy="10">%%@@@####*#%##***++====--::.   ..       :-=*%%##</tspan><tspan x="22" dy="10">%%%@@%##########%#######*+==-:...::-=+++++*+#%##</tspan><tspan x="22" dy="10">%@@@@%####*##########%%%%%#**=-::-=+**+=--+-+###</tspan><tspan x="22" dy="10">@@@@@@%%##*######*++===*%%%##+:  :++++==---.-###</tspan><tspan x="22" dy="10">%@@@@@@%#**###########**####*+:  :+*++*#*+=..**+</tspan><tspan x="22" dy="10">%%%%@%%*+*#***#####***+******+-.  .----:..   ==:</tspan><tspan x="22" dy="10">#%%%%%*==+++++++++++++++++*+++=-.             .</tspan><tspan x="22" dy="10">#%#**%*=====+====----===+++++++=:</tspan><tspan x="22" dy="10">###**##+++++++++========++***++=-.            ..</tspan><tspan x="22" dy="10">***#*##*++++***++++=====++*++++=-:           ...</tspan><tspan x="22" dy="10">+*****#**+*******++++++++****##*=::         .:..</tspan><tspan x="22" dy="10">-+***####*********++++++++*#%%%#+==-:       ::..</tspan><tspan x="22" dy="10">:--*%@%#####******+++++**##%%%#**#++++==.  :=:..</tspan><tspan x="22" dy="10">...:+%@%######*******#%%%%####*+=-----=+- .=-...</tspan><tspan x="22" dy="10">:::::+%%########*****#%######*+==-:::::-..-=::::</tspan><tspan x="22" dy="10">-----=#%*###############******=---::.....:=-----</tspan><tspan x="22" dy="10">------=#**##%####################*=:....:==---==</tspan><tspan x="22" dy="10">--------=+*##%##########**++===-:.     :=:------</tspan><tspan x="22" dy="10">---------=***###%%%%%###***++==---:-:::+*=..----</tspan><tspan x="22" dy="10">---------=*****##%%%%%%#%#%##*+***++++-:**=  :--</tspan><tspan x="22" dy="10">--------+*+******##%%%%%%%%%######*+-.  =#*:  .-</tspan><tspan x="22" dy="10">------=*##+*******#####*+=----::::..    -*#-</tspan><tspan x="22" dy="10"> </tspan></text>
+  <text class="title" x="300" y="24">basit@tekdex-workstation</text>
+  <text class="muted" x="300" y="39">----------------------------------------</text>
+  <text class="txt" x="300" y="54"><tspan class="key">OS:</tspan><tspan xml:space="preserve">        Ubuntu 22.04 LTS (Jammy Jellyfish)</tspan></text>
+  <text class="txt" x="300" y="69"><tspan class="key">Host:</tspan><tspan xml:space="preserve">      TekDex Precision T7820 Workstation</tspan></text>
+  <text class="txt" x="300" y="84"><tspan class="key">Kernel:</tspan><tspan xml:space="preserve">    6.5.0-x86_64-generic</tspan></text>
+  <text class="txt" x="300" y="99"><tspan class="key">Uptime:</tspan><tspan xml:space="preserve">    3 months, 21 days</tspan></text>
+  <text class="txt" x="300" y="114"><tspan class="key">Shell:</tspan><tspan xml:space="preserve">     zsh 5.9</tspan></text>
+  <text class="txt" x="300" y="129"><tspan class="key">IDE:</tspan><tspan xml:space="preserve">       Neovim / VS Code 1.96</tspan></text>
+  <text class="txt" x="300" y="144"><tspan class="key">Languages.Programming:</tspan><tspan xml:space="preserve">  Python, JavaScript, TypeScript</tspan></text>
+  <text class="txt" x="300" y="159"><tspan class="key">Languages.Backend:</tspan><tspan xml:space="preserve">      FastAPI, Next.js, Node.js</tspan></text>
+  <text class="txt" x="300" y="174"><tspan class="key">Languages.Data:</tspan><tspan xml:space="preserve">         SQL, MongoDB, JSON, YAML</tspan></text>
+  <text class="txt" x="300" y="189"><tspan class="key">Languages.Real:</tspan><tspan xml:space="preserve">         English, Urdu</tspan></text>
+  <text class="txt" x="300" y="204"><tspan class="key">Hobbies.Software:</tspan><tspan xml:space="preserve">       AI Finetuning, LLM Agents, Full-Stack</tspan></text>
+  <text class="txt" x="300" y="219"><tspan class="key">Hobbies.Hardware:</tspan><tspan xml:space="preserve">       Jetson Nano, Edge Devices, MCUs</tspan></text>
+  <text class="hdr" x="300" y="234">Contact --------------------------------</text>
+  <text class="txt" x="300" y="249"><tspan class="key">Email:</tspan><tspan xml:space="preserve">     syedbasit@tekdexinc.com</tspan></text>
+  <text class="txt" x="300" y="264"><tspan class="key">LinkedIn:</tspan><tspan xml:space="preserve">  in/syedbasitali</tspan></text>
+  <text class="txt" x="300" y="279"><tspan class="key">Discord:</tspan><tspan xml:space="preserve">   syedbasit</tspan></text>
+  <text class="hdr" x="300" y="294">GitHub Stats ---------------------------</text>
+  <text class="txt" x="300" y="309"><tspan class="key">Repos:</tspan><tspan xml:space="preserve">     1   Contributed: 3</tspan></text>
+  <text class="txt" x="300" y="324"><tspan class="key">Commits:</tspan><tspan xml:space="preserve">   97</tspan></text>
+  <text class="txt" x="300" y="339"><tspan class="key">Stars:</tspan><tspan xml:space="preserve">     0   Followers: 0</tspan></text>
+  <text class="txt" x="300" y="354"><tspan class="key">Lines of Code:</tspan><tspan xml:space="preserve"> 331  ( </tspan><tspan class="add">423++</tspan><tspan xml:space="preserve"> , </tspan><tspan class="del">92--</tspan><tspan xml:space="preserve"> )</tspan></text>
+</svg>
