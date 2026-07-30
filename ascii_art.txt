@@ -1,48 +1,35 @@
-......`':;=s=sti+:+ccccvzvvvvsvscsst==!;::'```.........
-         ..``':;!!+tvszvzsszzzXXCXzvvvvzXXXXXzscti+!;'`.........
-        ..'!isvzXXXCCCOOOO0OCOOCXvzXCO#####0OOOOOCXsci!'`.......
-      .`!czCO00000OOOOOOO0#O00OCzX0#%@@%%#0OCCCXXXXzzvsc=:`.....
-    .:izCO00####0##00OOOO#%0##OOO%%@%%%##0000OCCXzvsccsvvvc+:`..
-  .:tXOO0########0000OO0O0#%%###%@@@%%%%%%%%##%%#00OOCXzvvvvsi;`
-.:iXO00#00##########0000OO0%@%%%%%@@@@%%%%%%%@@%%%%%%%%#0OCXzzc=
-=zOO0#000#0000000######00OO#%%%@%%@@@@@@@@@@@@@@@@%%%%%%%#0CXzzs
-CO000O0#####000#########00OO#%%%%%%%%%@@@@@@@@@%@@@@%@%%%##0Ozsv
-0000O0#0###0O0#000#####%#0000###00000##%%%%%@@@@@@@@@%%%%#0OOCzt
-#00000###%0OO0OOOCO00##00OXXzzvvvvsssvzXXXXCOO0##%%%%@@%%#0OXzXv
-000000###0CCCOCXzzOOOOCXzscti======++++==ittccsvzCO0#%%@%%%0CzvX
-#0######0CXCXCCzzXCXXzvscti=++!!!!;!!;;;;;!+===iccszXO##%%#%#OCX
-#%#%%%##CCXXXXXXzXXzvscctii=+!!!;;;;;;:::::::!!+=i=tssXO0#%%%#0C
-%%%%%%#OXCzzzXCXXCXzscctii===+!!;;;:::::'''''':;!+=+=iivCO#%%%#O
-%%#%%%0XOCzvXX0CCXzvscttii===++!;;;::::'''''`'':;!++!!==cC0%%##0
-%#%%%%COOXvvzO0OOXzvscttiii==++!;;;:::''''''''''':!++++=icC0%%#0
-%%%%@0X0CzzvX000OCXvsccttii==++!;:::'''''''''''````';!++=isO%%##
-%%%%%OC0XXCvX#00OCXzvscctii==++!!;:''`````''''`.    .`:;===z#%#0
-%%@@%CO0XOCzC0OOCXzvvssctiiii==++!;:'`...`````.       `'!itcC%#0
-%%%%%OO0XOOXO0CCXXXXCCCXzzzvvvsscti+!!:''''``'``':;!+++==tvsz##0
-%%@%@#C0CO0XCOCCC00000###%%%###0OCXvcci=+;::;+i=iczCOXzzvvzvcz0O
-%%@@@%OOCCOXXCCO0OOOOOCCXXCO0#####0OCXvci+;:;=ttsvzvsti=+=ct+cOO
-%@@@@@%OOCCXzCCOOCCXXXzvsccttszO0#00OCXvt+`.`:=tsssci=+;;+i;:=CC
-@@@@@@@%0CXXXXCCCCOOCCXzsstti+=vO0#0OCXvt:  .!svzvssvzzvti=;';XX
-@@@@@@@%OCXXXXXXCO00OOOOOC00#0CO0OOOCXzvt!. .:tsvsttsCCCsct+``sC
-#%%%@@#CvvXCCXzzXXCO000OCzzzvcsvzXXXXzvsc+:. `'!=iiii=+;:'```.;z
-#0##%#CsttcvzXzzvvzzXCCXXvssssssvvzzvvssci!'.  ..':::'`.     ..!
-##OO#0ztttttcsssccccccctctttttccsssvsscccci!`                  '
-OOzvO0zcttttttccttiii======iiittccsssssssct=:.                 `
-XXzvX#Cscctccccccccttiii=====iitccsvvvvsssci+:.                `
-CCXXz0Ozcccsssssssssccttiiiiiiiitcsvvvvvscti=;'               .`
-szXXXCOXvsssvvvvvvvvssccctttttttcsvzvvvsccti+;'            ...`'
-vzXXXXCCzvssvvvvvvvvvvvsssccccccsvzXvvzzzzvc=;:' .        ...`::
-vvvvvXCCXXvvvvvvzvvvvvvvsssscccsssvXCO00000Cvi=!'.         .``+:
-vzzzX0OCCXXzzzzzzzzvvvvssssscccccssvXCO00#Ozcctit=;``.     .`;='
-+cO%%@%OCCCXCXXzzzvvvvvvvssssssvzzXCO####0XzX0XvzXzsti=:   `;t!'
-:;=O@@@#CCCCCCCCXXzvvvvvvvvvzCOO000###0OCvtitt=!!+!=tssc` .;ti::
-::;+z%%%0CCCCOOOCCXXzzzzvzzXO###0OOCCXXXXXzst==ittt+!ici'.:ic!::
-;;;;=z0%#CCCCOOOOOOCXXzzzzXCO00O0OOOOCCXzscti++;:;!;;!+;`'+c=:;;
-!!!!+t#%#zOOOOOOOOCCCCCXXXXCOCCXXXXXXzzvci+;;!;:''```'::':ic!!!!
-+++++=v#0zzO0OO0OOCCCCCCCCCCCCCCXXXXXCCXvssscct=+;:::::::+si+===
-=====+=vOCvzC0O0OOOCCCCCCCCCCCCCCCCCCXCOOOOOCXci!:''':::+si=====
-==++=+++iiczzXO00OOOCCCCCCCCCCCCXXzzvccctti+;:`..  ..';i=+======
-++++++++++ivzzzXO00OOOOOOOOOCCXXzzvsctti=+!;;:'''`..`:tv='`!=+==
-++++++++++=szzzzzXO000000000OOCXXXzzzzvsctitti=+===!!tvvvc: '+==
-+++++++++!+cvzzzzzXXOO0####0000O0OOOOOCXvsszzvscccccc:+vvvt: .;=
-++++++++!=csvzzzzzzXXXCO0##%%#####0##0OCXXCOOCXzzzs='.`tXzs=.  `
+..:-++*+==************+=--:.
+        .:=+***#########**##%%%%####*+=-.
+      :=*#%%%%%%###%%%%##%%@@%%%###**++++=:.
+    :+#%%%%%%%%%###%%%%%%@@%%%%%%%%%###****+-.
+  :+#%%%%%%%%%%%%%##%@@@@@@@@@@@@@@@@@@%%%#**+:
+.=#%%%%%%%%%%%%%%%%##%@@@%@@@@@@@@@@@@@@%%%#***=
+*%%%%%%%%%#%%%%%%%%%#%%%####%%%%%%@@@@@@%%%##++*
+%%%%%%%%%####*##%##*++=======+++***#%%%@@%%#**++
+%%%%%%%%####**##**+=---:::::::::--==+*#%%%%%##**
+%%%%%%%##**##*#*++==---:::::.....::---=+#%%%%##*
+%%%%%%###**###*++===---::::........:----=*%%%%#*
+%%%%%%##***%##**+====--:::...........:---=#%%%##
+%%%@@%##**#%%##*++===--:::..  ....    .:--=%%%##
+%%@@@####*#%##***++====--::.   ..       :-=*%%##
+%%%@@%##########%#######*+==-:...::-=+++++*+#%##
+%@@@@%####*##########%%%%%#**=-::-=+**+=--+-+###
+@@@@@@%%##*######*++===*%%%##+:  :++++==---.-###
+%@@@@@@%#**###########**####*+:  :+*++*#*+=..**+
+%%%%@%%*+*#***#####***+******+-.  .----:..   ==:
+#%%%%%*==+++++++++++++++++*+++=-.             .
+#%#**%*=====+====----===+++++++=:
+###**##+++++++++========++***++=-.            ..
+***#*##*++++***++++=====++*++++=-:           ...
++*****#**+*******++++++++****##*=::         .:..
+-+***####*********++++++++*#%%%#+==-:       ::..
+:--*%@%#####******+++++**##%%%#**#++++==.  :=:..
+...:+%@%######*******#%%%%####*+=-----=+- .=-...
+:::::+%%########*****#%######*+==-:::::-..-=::::
+-----=#%*###############******=---::.....:=-----
+------=#**##%####################*=:....:==---==
+--------=+*##%##########**++===-:.     :=:------
+---------=***###%%%%%###***++==---:-:::+*=..----
+---------=*****##%%%%%%#%#%##*+***++++-:**=  :--
+--------+*+******##%%%%%%%%%######*+-.  =#*:  .-
+------=*##+*******#####*+=----::::..    -*#-
