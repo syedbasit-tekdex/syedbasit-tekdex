@@ -18,7 +18,7 @@
   <text class="txt" x="300" y="54"><tspan class="key">OS:</tspan><tspan xml:space="preserve">        Ubuntu 22.04 LTS (Jammy Jellyfish)</tspan></text>
   <text class="txt" x="300" y="69"><tspan class="key">Host:</tspan><tspan xml:space="preserve">      TekDex Precision T7820 Workstation</tspan></text>
   <text class="txt" x="300" y="84"><tspan class="key">Kernel:</tspan><tspan xml:space="preserve">    6.5.0-x86_64-generic</tspan></text>
-  <text class="txt" x="300" y="99"><tspan class="key">Uptime:</tspan><tspan xml:space="preserve">    4 months, 18 days</tspan></text>
+  <text class="txt" x="300" y="99"><tspan class="key">Uptime:</tspan><tspan xml:space="preserve">    4 months, 19 days</tspan></text>
   <text class="txt" x="300" y="114"><tspan class="key">Shell:</tspan><tspan xml:space="preserve">     zsh 5.9</tspan></text>
   <text class="txt" x="300" y="129"><tspan class="key">IDE:</tspan><tspan xml:space="preserve">       Neovim / VS Code 1.96</tspan></text>
   <text class="txt" x="300" y="144"><tspan class="key">Languages.Programming:</tspan><tspan xml:space="preserve">  Python, JavaScript, TypeScript</tspan></text>
